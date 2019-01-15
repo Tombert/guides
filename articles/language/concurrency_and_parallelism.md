@@ -1210,7 +1210,7 @@ the subject, one can refer to a few excellent books:
 
 ## Wrapping Up
 
-One of Clojure design goals was to make concurrent programming easier.
+One of the design goals when creating Clojure was making concurrent programming easier.
 
 The key design decision was making Clojure data structures immutable
 (persistent) and separating the concepts of *identity* (references)
